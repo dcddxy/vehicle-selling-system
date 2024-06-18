@@ -1,0 +1,2 @@
+3;Car;Mercedes;AMG GT Coupe;2014;3982.0;Hybrid;Blue;Y;D;1712888.00
+4;Van;Volkswagen;VW T1;1950;1200.0;Petrol;Green;N;P;237073.00

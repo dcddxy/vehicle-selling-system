@@ -1,0 +1,6 @@
+Hassan Ahmad;S001;securepass1;0123456789;hassan.ahmad@email.com;45 Jalan Tun Razak;50400;Kuala Lumpur;Wilayah Persekutuan;Manager;Full-time
+Aisha Wong;S002;securepass2;0176543210;aisha.wong@email.com;28 Jalan Ampang;46100;Petaling Jaya;Selangor;Sales Associate;Part-time
+Rahim Abdullah;S003;securepass3;0198765432;rahim.abdullah@email.com;15 Lebuh Chulia;10200;Penang;Pulau Pinang;IT Intern;Intern
+Nina Lim;S004;securepass4;0112345678;nina.lim@email.com;10 Jalan Bukit Bintang;55100;Kuala Lumpur;Wilayah Persekutuan;HR Specialist;Full-time
+Athiqah Khairi;S006;securepass6;194062307;athiqahk2gmail.com;A-0-6, Kuarters Kerajaan, Jalan Dutamas 3;50480;Kuala Lumpur;Wilayah Persekutuan;Clerk;Part-Time
+nadiah;S007;securepass7;1175320480;nadiazulkiff@gmail.com;lot 2964;47000;sungai buloh;selangor;manager;full-time
